@@ -1,4 +1,4 @@
-package com.example.bc_abadi
+package com.dewadev.bc_abadi
 
 import io.flutter.embedding.android.FlutterActivity
 
