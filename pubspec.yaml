@@ -1,0 +1,24 @@
+name: bc_abadi
+description: "BC Abadi Project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  blue_thermal_printer: ^1.2.3
+  flutter:
+    sdk: flutter
+  flutter_inappwebview: ^6.1.5
+  http: ^1.4.0
+  permission_handler: ^11.0.0
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
